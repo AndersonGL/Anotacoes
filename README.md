@@ -1,4 +1,21 @@
-# Anotacoes
+# Anotacoes Empresa
+
+
+- Teams Empresa: anderson.gouveia@wtime.com.br
+
+- Senha: Myrella1@
+
+- Login:
+
+- anderson.lignelli
+
+- Myrella1@
+
+- VPN
+
+- anderson.lignelli
+
+- Myrella1@
 
 
 
