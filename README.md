@@ -11,7 +11,7 @@
 
 - Myrella1@
 
-### VPN
+### VPN:
 
 - anderson.lignelli
 
@@ -19,7 +19,7 @@
 
 
 
-### Instalação node
+### Instalação Node:
 
 - Instalação do node oficial - https://nodejs.org/pt-br/download
     
