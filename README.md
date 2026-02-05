@@ -19,13 +19,13 @@
 
 
 
-### Instalação Node:
+## Instalação Node:
 
-- Instalação do node oficial - https://nodejs.org/pt-br/download
+### Instalação do node oficial - https://nodejs.org/pt-br/download
     
 - verificar node -version
 
-- Intalação do git oficial - https://git-scm.com/
+### Intalação do git oficial - https://git-scm.com/
     
 - git --version
 
