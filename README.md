@@ -1,9 +1,13 @@
 # Anotacoes Empresa
 
+### Email Gmail:  anderson.gouveia@wtime.com.br
+
+- wtime4652
 
 ### Teams Empresa: anderson.gouveia@wtime.com.br
 
-- Senha: Myrella1@
+- Myrella1@
+
 
 ### Login:
 
