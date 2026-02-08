@@ -46,3 +46,8 @@
 - Para publicar o projeto → yarn build depois yarn start
 
 - Para checar erros de código → yarn lint
+
+
+## Teste do teste
+
+- teste, teste, teste
